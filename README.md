@@ -10,7 +10,7 @@
 
 ### hey
 
-voi, 19, romania. i spend way more time on my pc than is healthy and somehow some
+void, 19, romania. i spend way more time on my pc than is healthy and somehow some
 of it turns into actual projects
 
 daily driver is arch on hyprland. i'll spend a whole evening ricing something no one
