@@ -1,12 +1,10 @@
-# Voidlax/5ylens
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=04BF8A&center=true&vCenter=true&width=620&lines=breaks+arch%2C+fixes+arch%2C+repeat;writes+code+at+hours+no+one+should+be+awake;mostly+just+messing+around+ngl" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=04BF8A&center=true&vCenter=true&width=640&lines=breaks+arch+then+fixes+arch;codes+at+hours+no+one+should+be+awake;mostly+just+messing+around+ngl" alt="typing" />
+
+<img src="https://komarev.com/ghpvc/?username=Voidlax&style=flat&color=04bf8a&label=seen+by" alt="views" />
 
 </div>
-
----
 
 ### hey
 
@@ -54,6 +52,22 @@ allergic to finishing side projects
 
 </div>
 
+### the contribution snake eating my year
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Voidlax/Voidlax/output/github-snake-dark.svg" alt="snake" />
+
+</div>
+
+### activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Voidlax&bg_color=0D0F13&color=04BF8A&line=04BF8A&point=FFFFFF&area=true&area_color=04BF8A&hide_border=true" width="98%" alt="activity graph" />
+
+</div>
+
 ### stuff worth looking at
 
 - **[torbox](https://github.com/Voidlax/torbox)** — desktop torrent client built on torbox
@@ -66,5 +80,3 @@ allergic to finishing side projects
 <sub>if its broken give it a sec, i probably know</sub>
 
 </div>
-
-<!-- v -->
