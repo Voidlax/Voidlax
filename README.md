@@ -1,58 +1,61 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=04BF8A&center=true&vCenter=true&width=640&lines=breaks+arch+then+fixes+arch;codes+at+hours+no+one+should+be+awake;mostly+just+messing+around+ngl" alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=voidlax&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=jobless+%7C+arch+larper+%7C+claude%27s+puppet&descSize=14&descAlignY=72&descColor=9ca3af" width="100%" alt="voidlax" />
 
-<img src="https://komarev.com/ghpvc/?username=Voidlax&style=flat&color=04bf8a&label=seen+by" alt="views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=does+jack+shit+by+himself+most+days;win+11+%2B+arch+larper+switching+wms+nonstop;trying+to+get+into+uni+and+actually+learn+code;or+just+larp+on+r%2Funixporn+idk+yet;ily+claude+%3C3" alt="typing" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Voidlax&style=flat&color=9CA3AF&label=seen+by" alt="views" />
 
 </div>
 
-### hey
+### hellou
 
-void, 19, romania. i spend way more time on my pc than is healthy and somehow some
-of it turns into actual projects
+ain't much to be said abt me other than the fact that i end up doing jack shit by myself most of the time and i likely ended up using hundreds of liters of water on stupid things that would've taken me way less if i knew what i was doing.
 
-daily driver is arch on hyprland. i'll spend a whole evening ricing something no one
-will ever see and call it productivity. if my setup breaks its usually my own fault
-and i fully deserved it
+i'm 19, jobless, trying to get into uni (🙏) and actually learn how to do code. or snag a thinkpad and larp on r/unixporn, one or the other.
+
+i use Windows 11 and Arch (currently on hyprland, constantly switching wms).
 
 ### what im actually doing
 
-honestly? a lot of nothing. i go through phases where i build something cool for a
-week straight and then dont touch a keyboard for the next two. depends on the mood
+honestly? a fuck ton of nothing. i go through phases where i build something cool for a
+week straight and then abandon it the next day. depends on the mood
 
-lately ive been making little desktop apps for stuff that annoyed me. if a tool
-sucks to use i'd rather js build my own version of it than deal with it
+lately ive (and by ive i mean claude, ily claude <3) been making little apps for stuff that annoyed me. if a tool
+sucks or doesn't exist i'd rather js build my own version of it than deal with it
 
 ```text
-arch + hyprland gremlin
+win 11 + arch larper
 will rabbit hole on a problem nobody asked me to solve
 allergic to finishing side projects
 ```
 
 ### stuff i use
 
-![](https://img.shields.io/badge/arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![](https://img.shields.io/badge/hyprland-00AAAE?style=flat-square&logo=hyprland&logoColor=white)
-![](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/arch-12141b?style=flat-square&logo=archlinux&logoColor=white)
+![](https://img.shields.io/badge/hyprland-12141b?style=flat-square&logo=hyprland&logoColor=white)
+![](https://img.shields.io/badge/javascript-12141b?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/python-12141b?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/node-12141b?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/electron-12141b?style=flat-square&logo=electron&logoColor=white)
+![](https://img.shields.io/badge/bash-12141b?style=flat-square&logo=gnubash&logoColor=white)
 
-### the numbers (carried entirely by 3am commits)
+### THE NUMBERS (what do they mean?????)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Voidlax&show_icons=true&hide_border=true&bg_color=0D0F13&title_color=04BF8A&icon_color=04BF8A&text_color=9CA3AF&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voidlax&layout=compact&hide_border=true&bg_color=0D0F13&title_color=04BF8A&text_color=9CA3AF&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Voidlax&show_icons=true&hide_border=true&bg_color=0D0F13&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voidlax&layout=compact&hide_border=true&bg_color=0D0F13&title_color=FFFFFF&text_color=9CA3AF&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Voidlax&hide_border=true&background=0D0F13&ring=04BF8A&fire=04BF8A&currStreakLabel=04BF8A&sideLabels=9CA3AF&dates=525252&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=212A36" />
+<img src="https://streak-stats.demolab.com?user=Voidlax&hide_border=true&background=0D0F13&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=525252&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=212A36" />
 
 </div>
 
-### the contribution snake eating my year
+### snake nom nom
 
 <div align="center">
 
@@ -64,19 +67,17 @@ allergic to finishing side projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Voidlax&bg_color=0D0F13&color=04BF8A&line=04BF8A&point=FFFFFF&area=true&area_color=04BF8A&hide_border=true" width="98%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Voidlax&bg_color=0D0F13&color=FFFFFF&line=FFFFFF&point=9CA3AF&area=true&area_color=FFFFFF&hide_border=true" width="98%" alt="activity graph" />
 
 </div>
 
 ### stuff worth looking at
 
-- **[torbox](https://github.com/Voidlax/torbox)** — desktop torrent client built on torbox
-  bc using their site in a browser was driving me up a wall. resumable downloads, pick the
-  files you want, magnet handler, cross platform
+- **[my site, retiring soon](https://voidlax.com)** — project i've worked on and kept adding to for almost a year, though the domain is set to expire around the middle of july, and i'm thinking of changing it or switching to something more simple.
 - the rest is either private or sitting half done somewhere
 
 <div align="center">
 
-<sub>if its broken give it a sec, i probably know</sub>
+<sub>fuck you teodora</sub>
 
 </div>
