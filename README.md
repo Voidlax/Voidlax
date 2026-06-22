@@ -10,37 +10,47 @@
 
 </div>
 
-### hellou
+### hi.
 
-ain't much to be said abt me other than the fact that i end up doing jack shit by myself most of the time and i likely ended up using hundreds of liters of water on stupid things that would've taken me way less if i knew what i was doing.
+there ain't a lot to say abt me other than the fact that i'm extremely fucking lazy and i'd
+rather bully claude into doing it than actually learn.
 
-i'm 19, jobless, trying to get into uni (🙏) and actually learn how to do code. or snag a thinkpad and larp on r/unixporn, one or the other.
+so that's why most of the stuff you'll see here is either ai slop vibecoded trash or static
+html projects i had for school.
 
-i use Windows 11 and Arch (currently on hyprland, constantly switching wms).
+thank you for understanding.
 
-### what im actually doing
-
-honestly? a fuck ton of nothing. i go through phases where i build something cool for a
-week straight and then abandon it the next day. depends on the mood
-
-lately ive (and by ive i mean claude, ily claude <3) been making little apps for stuff that annoyed me. if a tool
-sucks or doesn't exist i'd rather js build my own version of it than deal with it
+### for future employers
 
 ```text
-win 11 + arch larper
-will rabbit hole on a problem nobody asked me to solve
-allergic to finishing side projects
+- advanced office skills
+- linux experience (and by that i mean spending 3 whole days to rice my distro only
+  to abandon it, wipe the partition, and start over because GRUB decided to be a bit
+  grumpy today uwu)
+- basic html/css experience (the only thing i can do on my own basically)
+- 14 years of hands-on experience on windows (wiping my data partition that one time
+  doesn't count)
+- basic networking skills
+- basic lua skills (though i haven't touched it in at least 5 years)
+- NOT social. NO teamworking skills. i CANT adapt to new environments quickly.
+  im NOT friendly and easygoing
+- uhh idk i once cracked my own wifi after someone changed the password if that counts
+- i played the entire watch dogs series and watched mr robot so im a top tier larper
+  + i use mullvad btw
+- i tinker with things i shouldn't tinker with then complain that it doesn't work then
+  spend hours trying to fix it
+- and more
 ```
 
-### stuff i use
+### the tools i pretend to know
 
 ![](https://img.shields.io/badge/arch-12141b?style=flat-square&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/hyprland-12141b?style=flat-square&logo=hyprland&logoColor=white)
-![](https://img.shields.io/badge/javascript-12141b?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/python-12141b?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/node-12141b?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/electron-12141b?style=flat-square&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/bash-12141b?style=flat-square&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/windows-12141b?style=flat-square&logo=windows11&logoColor=white)
+![](https://img.shields.io/badge/html-12141b?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-12141b?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/lua-12141b?style=flat-square&logo=lua&logoColor=white)
+![](https://img.shields.io/badge/mullvad-12141b?style=flat-square&logo=mullvad&logoColor=white)
 
 ### THE NUMBERS (what do they mean?????)
 
@@ -71,9 +81,10 @@ allergic to finishing side projects
 
 </div>
 
-### stuff worth looking at
+### the few things worth clicking
 
-- **[my site, retiring soon](https://voidlax.com)** — project i've worked on and kept adding to for almost a year, though the domain is set to expire around the middle of july, and i'm thinking of changing it or switching to something more simple.
+- **[my site, retiring soon](https://voidlax.com)** — been adding to it for almost a year. domain expires
+  mid july so im either changing it or switching to something simpler
 - the rest is either private or sitting half done somewhere
 
 <div align="center">
