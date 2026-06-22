@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=5ylens&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=%231+foid+destroyer+%7C+certified+goyim&descSize=14&descAlignY=72&descColor=9ca3af" width="100%" alt="5ylens" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=5ylens&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=%231+foid+destroyer+%7C+certified+goyim&descSize=14&descAlignY=72&descColor=9ca3af&v=2" width="100%" alt="5ylens" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=idk+what+im+doing+here;js+breaking+stuff+mostly;arch+btw+i+guess;claude+writes+it+i+take+credit" alt="typing" />
 
