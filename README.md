@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=voidlax&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=jobless+%7C+arch+larper+%7C+claude%27s+puppet&descSize=14&descAlignY=72&descColor=9ca3af" width="100%" alt="voidlax" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=5ylens&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=%231+foid+destroyer+%7C+certified+goyim&descSize=14&descAlignY=72&descColor=9ca3af" width="100%" alt="5ylens" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=does+jack+shit+by+himself+most+days;win+11+%2B+arch+larper+switching+wms+nonstop;trying+to+get+into+uni+and+actually+learn+code;or+just+larp+on+r%2Funixporn+idk+yet;ily+claude+%3C3" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=i+rice+my+desktop+more+than+i+use+it;3+hours+of+config+to+save+5+seconds;ngl+i+have+no+clue+what+im+doing;but+it+compiles+so+were+good;reinstalled+arch+again+btw" alt="typing" />
 
 <br/>
 
