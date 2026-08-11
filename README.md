@@ -83,12 +83,11 @@ thank you for understanding.
 
 ### the few things worth clicking
 
-- **[my site, retiring soon](https://voidlax.com)** — been adding to it for almost a year. domain expires
-  mid july so im either changing it or switching to something simpler
+- **[my website](https://voidlax.com)** — i was contemplating on whether i should renew the domain or not, i eventually did, and pushed a big update with an entirely new codebase. i'll work on polishing it at some point, but right now it's a bit stale, with a ton of bugs remaining.
 - the rest is either private or sitting half done somewhere
 
 <div align="center">
 
-<sub>fuck you teodora</sub>
+<sub>teodora nr 1 fedora glazer</sub>
 
 </div>
