@@ -1,7 +1,5 @@
 name: generate snake
 
-# builds the animated contribution-snake svg and pushes it to the `output`
-# branch, where the README pulls it from. runs every few hours + on push.
 on:
   schedule:
     - cron: "0 */6 * * *"
