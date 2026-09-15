@@ -89,6 +89,6 @@ thank you for understanding.
 
 <div align="center">
 
-<sub>teodora nr 1 fedora glazer</sub>
+<sub>wowzers</sub>
 
 </div>
