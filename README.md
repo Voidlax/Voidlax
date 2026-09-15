@@ -57,12 +57,12 @@ thank you for understanding.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Voidlax&show_icons=true&hide_border=true&bg_color=0D0F13&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voidlax&layout=compact&hide_border=true&bg_color=0D0F13&title_color=FFFFFF&text_color=9CA3AF&langs_count=8" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Voidlax&show_icons=true&hide_border=true&bg_color=0D0F13&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Voidlax&layout=compact&hide_border=true&bg_color=0D0F13&title_color=FFFFFF&text_color=9CA3AF&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Voidlax&hide_border=true&background=0D0F13&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=525252&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=212A36" />
+<img src="https://streak-stats.vercel.app?user=Voidlax&hide_border=true&background=0D0F13&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=525252&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=212A36" />
 
 </div>
 
