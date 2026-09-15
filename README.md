@@ -30,6 +30,7 @@ thank you for understanding.
 - basic html/css experience (the only thing i can do on my own basically)
 - 14 years of hands-on experience on windows (wiping my data partition that one time
   doesn't count)
+- almost 20 years of cognitive brain function
 - basic networking skills
 - basic lua skills (though i haven't touched it in at least 5 years)
 - NOT social. NO teamworking skills. i CANT adapt to new environments quickly.
