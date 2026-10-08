@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=180&section=header&text=5ylens&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=%231+foid+destroyer+%7C+certified+goyim&descSize=14&descAlignY=80&descColor=9ca3af&v=3" width="100%" alt="5ylens" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=180&section=header&text=5ylens&fontSize=70&fontColor=ffffff&font=Permanent+Marker&desc=professional+procrastinator+%7C+certified+larper&descSize=14&descAlignY=80&descColor=9ca3af&v=4" width="100%" alt="5ylens" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&height=50&lines=arch+btw.;showers+are+not+optional.;drink+plenty+of+white+monster%2C+your+heart+will+thank+you.;remember+to+touch+grass+once+in+a+while.;sudo+rm+-rf+%2F;use+GNOME.+it+better.;MY+SOURCE+IS+THAT+I+MADE+IT+THE+FUCK+UP.;i+aint+reading+alldat;ai+slop+ai+slop+ai+slop+ai+slop;sudo+pacman+-S+opsec;MACHINE.+I+WILL.+CUT.+YOU.+DOWN;bravo+six%2C+going+dark.;do+not+trust+the+white+sausage.;ANOTHER+ONE+BITES+THE+DUST.;yes+king.;im+hungry.;wat.;behind+you.;BEWARE+OF+THE+EVIL+XAN;the+opps+are+after+you.;shoutout+to+Jesus+he+chill+asl.;Fintangeles%2C+land+of+the+gangsters.;i+miss+the+spanish+burger+bro.;Never+forget+Otilia.;Win+AERO+Tweaks.;10+SECONDS.+IT+SEEMS+THAT+IS+MY+LIMIT.;saata+andagi..%3F;meowzers;yay+-S+opsec;sissy.;I+regret+nothing.;my+ribs+hurt;balls+out;whiggita;are+we+legitty+on+my+titty;hot+singles+in+my+area+where;kevin+the+cube.;scum.;none+of+those+words+are+in+the+Bible.+seek+Jesus.;6+7+mustard+mango+mango+mango;XDXDXDXD;agartha+gaming;hotdog+from+Profi%2C+good+stuff.;go+to+sleep" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&height=50&lines=arch+btw.;showers+are+not+optional.;drink+plenty+of+white+monster%2C+your+heart+will+thank+you.;remember+to+touch+grass+once+in+a+while.;sudo+rm+-rf+%2F;use+GNOME.+it+better.;MY+SOURCE+IS+THAT+I+MADE+IT+UP.;i+aint+reading+alldat;ai+slop+ai+slop+ai+slop+ai+slop;sudo+pacman+-S+opsec;RULES+OF+NATURE.;bravo+six%2C+going+dark.;ANOTHER+ONE+BITES+THE+DUST.;yes+king.;im+hungry.;wat.;behind+you.;Fintangeles%2C+land+of+the+gangsters.;i+miss+the+spanish+burger+bro.;Win+AERO+Tweaks.;10+SECONDS.+IT+SEEMS+THAT+IS+MY+LIMIT.;saata+andagi..%3F;meowzers;yay+-S+opsec;I+regret+nothing.;my+ribs+hurt;kevin+the+cube.;none+of+those+words+are+in+the+Bible.;6+7+mustard+mango+mango+mango;XDXDXDXD;agartha+gaming;hotdog+from+Profi%2C+good+stuff.;go+to+sleep" alt="typing" />
 
 <br/>
 
@@ -12,11 +12,11 @@
 
 ### hi.
 
-there ain't a lot to say abt me other than the fact that i'm extremely fucking lazy and i'd
-rather bully claude into doing it than actually learn.
+there ain't a lot to say abt me other than the fact that i'm pretty lazy and i lean on claude
+way more than i probably should. working on it. kinda.
 
-so that's why most of the stuff you'll see here is either ai slop vibecoded trash or static
-html projects i had for school.
+most of the stuff you'll see here is either vibecoded side projects (yes, ai helped a lot, i
+won't lie) or static html stuff i made back in high school.
 
 thank you for understanding.
 
@@ -30,12 +30,11 @@ thank you for understanding.
 - basic html/css experience (the only thing i can do on my own basically)
 - 14 years of hands-on experience on windows (wiping my data partition that one time
   doesn't count)
-- almost 20 years of cognitive brain function
+- 20 years of cognitive brain function
 - basic networking skills
 - basic lua skills (though i haven't touched it in at least 5 years)
-- NOT social. NO teamworking skills. i CANT adapt to new environments quickly.
-  im NOT friendly and easygoing
-- uhh idk i once cracked my own wifi after someone changed the password if that counts
+- social skills: still loading. teamwork patch coming soon(tm)
+- uhh idk i once got back into my own router after someone changed the password if that counts
 - i played the entire watch dogs series and watched mr robot so im a top tier larper
   + i use mullvad btw
 - i tinker with things i shouldn't tinker with then complain that it doesn't work then
