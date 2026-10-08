@@ -23,7 +23,7 @@ thank you for understanding.
 ### for future employers
 
 ```text
-- fresh systems engineering student. skills not included.
+- fresh automation & applied informatics student. skills not included.
 - advanced office skills
 - linux experience (and by that i mean spending 3 whole days to rice my distro only
   to abandon it, wipe the partition, and start over because GRUB decided to be a bit
