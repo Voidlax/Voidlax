@@ -33,7 +33,7 @@ thank you for understanding.
   doesn't count)
 - 20 years of cognitive brain function
 - basic networking skills
-- basic lua skills (though i haven't touched it in at least 5 years)
+- basic lua skills (though i haven't touched it in at least 6 years)
 - social skills: still loading. teamwork patch coming soon(tm)
 - uhh idk i once got back into my own router after someone changed the password if that counts
 - i played the entire watch dogs series and watched mr robot so im a top tier larper
