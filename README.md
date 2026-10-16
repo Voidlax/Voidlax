@@ -29,7 +29,7 @@ thank you for understanding.
   to abandon it, wipe the partition, and start over because GRUB decided to be a bit
   grumpy today uwu)
 - basic html/css experience (the only thing i can do on my own basically)
-- 14 years of hands-on experience on windows (wiping my data partition that one time
+- 16 years of hands-on experience on windows (wiping my data partition that one time
   doesn't count)
 - 20 years of cognitive brain function
 - basic networking skills
